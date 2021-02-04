@@ -2,7 +2,7 @@
   "name": "monsters",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tamara233.github.io/movie_lovers",
+  "homepage": "https://tamara233.github.io/movie-finder",
   "dependencies": {
     "@babel/core": "^7.12.13",
     "@testing-library/jest-dom": "^5.11.9",
